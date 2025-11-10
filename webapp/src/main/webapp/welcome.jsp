@@ -12,6 +12,6 @@
     <%-- Retrieve name from the request --%>
     <% String name = request.getParameter("name"); %>
     <h1>Welcome, <%= name %>!</h1>
-    <p>Glad to see you here.</p>
+    <p>Glad to see you here!</p>
 </body>
 </html>
